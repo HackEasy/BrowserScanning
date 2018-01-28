@@ -1,2 +1,2 @@
 # BrowserScanning
-Check The Security Of A Network Of Server Without Running Intrusive Testing 
+Check The Security Of A Network Or Server Without Running Intrusive Testing 
